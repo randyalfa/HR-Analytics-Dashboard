@@ -29,6 +29,10 @@ In this project, I analyzed a dummy HR dataset designed to reflect real-world HR
 
 > 📁 Open the `.pbix` file in Power BI Desktop to explore the interactive dashboard
 
+## ▶️ Dashboard Demo
+
+[Link to Dashboard Demo](https://drive.google.com/file/d/1yVxjyAY9m0X2nwhvqoYHQPCkgC1VmUMj/view?usp=sharing)
+
 ## 📖 How to Use
 
 1. Clone this repository or download the `.pbix` file
